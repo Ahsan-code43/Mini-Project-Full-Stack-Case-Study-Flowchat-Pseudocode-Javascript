@@ -1,5 +1,5 @@
-# Tujuan
-Membuat sebuah sistem chekout sederhana guna menghitung total pembayaran sebuah produk yang berdasarkan harga, jumlah produk, dan status member pembeli
+# 1.Tujuan
+- Membuat sebuah sistem chekout sederhana guna menghitung total pembayaran sebuah produk yang berdasarkan harga,    jumlah produk, dan status member pembeli
 
 # 2.Input
 - Harga
